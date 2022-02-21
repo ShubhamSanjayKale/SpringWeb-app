@@ -11,5 +11,11 @@ public class HomeController
 	{
 		return"login";
 	}
+    
+
+public String Demo()
+{
+int a=10;
+}
 
 }
