@@ -16,6 +16,11 @@ public class HomeController
 public String Demo()
 {
 int a=10;
+
+
+public String Demo()
+{
+int a=10;
 }
 
 }
